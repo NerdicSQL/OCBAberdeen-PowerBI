@@ -5,5 +5,8 @@
 
 ---
 @snap[west]
-## Content by Johan Kangasniemi 
+## Johan Kangasniemi <br>
+Azure and SQL Server enthusiast
+@fa[twitter] @NerdicSQL <br>
+@fa[envelope] johan@nerdic.it
 @snapend
