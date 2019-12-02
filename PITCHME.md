@@ -1,5 +1,8 @@
+@snap[north]
+![](assets/power-bi-icon-7.jpg)
+@snapend
 @snap[west]
-# Power BI: ![](assets/power-bi-icon-7.jpg)
+# Power BI:
 ## Not just for Business Intelligence!
 @snapend
 
