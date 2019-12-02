@@ -6,7 +6,7 @@
 ---
 @snap[west]
 ## Johan Kangasniemi <br>
-Azure and SQL Server enthusiast
+Azure and SQL Server enthusiast <br>
 @fa[twitter] @NerdicSQL <br>
 @fa[envelope] johan@nerdic.it
 @snapend
