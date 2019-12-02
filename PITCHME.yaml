@@ -9,9 +9,9 @@
 # Theme setting options:
 # black, moon, night, beige, sky, white, simple
 #
-theme : moon
-theme-override : assets/css/PITCHME.css
-highlight : mono-blue
+theme : night
+#theme-override : assets/css/PITCHME.css
+#highlight : mono-blue
 #
 # Layout setting options:
 # center, center-left, center-right, top, top-left, top-right
