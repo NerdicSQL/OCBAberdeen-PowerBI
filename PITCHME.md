@@ -1,7 +1,4 @@
-@snap[north]
-![](assets/power-bi-icon-7.jpg)
-@snapend
-@snap[south-west]
+@snap[west]
 # Power BI:
 ## Not just for Business Intelligence!
 @snapend
